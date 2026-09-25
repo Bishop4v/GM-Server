@@ -2,6 +2,7 @@
 Website for the Gamemaster Server for the 2026 Escape Room
 
 Steps:
+
   1st - Install Python on your local hardware
   
   2nd - Install the required Python Packages

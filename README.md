@@ -5,6 +5,7 @@ Steps:
   1st - Install Python on your local hardware
   
   2nd - Install the required Python Packages
+  
     * Open the command prompt (or whatever the local terminal is) then run the following command:
         pip install Flask flask-socketio
         

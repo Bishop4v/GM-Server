@@ -15,6 +15,7 @@ Steps:
         * Save index.html there
     * Save the Python file (app.py) in the main project folder
 
+
 Running the Server:
   1st - Navigate to your project folder
   
@@ -28,6 +29,6 @@ Running the Server:
   
       python app.py
       
-  4th = Paste the site in the search engine
+  4th - Paste the site in the search engine
   
     * When you run the file stuff should be popping up and this will be displayed: http://127.0.0.1:5000
